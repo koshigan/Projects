@@ -8,7 +8,7 @@ import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class project_2 {
+public class MusicPlayList {
     static Stack<String> pl = new Stack<>();
     static Scanner sc = new Scanner(System.in);
 
